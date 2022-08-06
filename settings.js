@@ -43,9 +43,9 @@ global.owner = ['Didula Rashmika']
 
 global.premium = ['💗Queen Ashiya🧚']
 
-global.ownernomer = '94741671668'
+global.ownernomer = '94740505722'
 
-global.ownername = 'Didula Rashmika'
+global.ownername = '*Vihanga Lakshan*'
 
 global.botname = '💗Queen Ashiya🧚'
 
